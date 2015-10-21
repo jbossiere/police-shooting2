@@ -1,0 +1,44 @@
+body {
+	background-color: black;
+}
+
+#container {
+	height:800px;
+}
+
+h1 {
+	color: #868686;
+	text-align: center;
+	font-size: 64px;
+}
+
+p {
+	color: #868686;
+	text-align: center;
+	padding: 40px;
+}
+
+table {
+	color: #868686;	
+	background-color: black;
+	margin-bottom: 10px;
+}
+
+table, th, td {
+	height: 30px;
+	width: 80%;
+	text-align: left;
+}
+
+th, td {
+	width: 100px; 
+}
+
+th {
+	font-size: 1.3em;
+	color: #CFCFCF;
+}
+
+#verticalHeader {
+	text-align: center;
+}
